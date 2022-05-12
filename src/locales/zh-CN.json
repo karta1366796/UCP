@@ -1,0 +1,16 @@
+{
+  "base": {
+    "copyright": "COPYRIGHT © 2022 XXXXXXX. ALL RIGHTS RESERVED.",
+    "home": "首頁",
+    "add": "新增",
+    "edit": "編輯",
+    "delete": "刪除",
+    "status": "狀態",
+    "save": "儲存",
+    "search": "搜尋"
+  },
+  "language": {
+    "chinese": "中文",
+    "english": "English"
+  }
+}
